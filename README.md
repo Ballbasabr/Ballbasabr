@@ -24,12 +24,13 @@
 <br>
 
 <h2> 🛰 <a href="" target="_blank"> Навыки и технологии </a> </h2>
+
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``,``Swagger``,``Trello``, <br>
 ``SoapUI``,``Mockoon``,``JMeter``,``Charles``,``Git``,``Chrome DevTools``, <br>
 ``Miro``, ``Sitechko``,``Confluence``,``pgAdmin4``. 
 
 
-⚙ ## Проекты
+<h2> ⚙ <a href="" target="_blank"> Проекты</a> </h2>
 
 
 
@@ -159,7 +160,8 @@ https://miro.com/app/board/uXjVMIYSHsk=/?share_link_id=205568272081
 ### **Аттестационная работа:**  
 https://dynamic-tortoise-fb2.notion.site/90efa614b8264409911d4309fce696ea?pvs=4
 
-📠 ## Контактная информация
+<h2> 📠 <a href="" target="_blank"> Контактная информация</a> </h2>
+
 - Email: fafanov.roman@gmail.com
 - Телефон: +79636966247
 - Телеграм: https://t.me/Fafanov
