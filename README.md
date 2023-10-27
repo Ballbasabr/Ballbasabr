@@ -1,18 +1,17 @@
-<h1 align="center">Awesome GitHub Profile README
-<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
-<br>
-💼 # Портфолио: инженер по тестированию 
+<img src="https://komarev.com/ghpvc/?username=Ballbasabr-github-username&style=flat-square&color=blue" alt=""/>
+</div>   
+<h1 align="center">💼 <a href="" target="_blank"> Портфолио: инженер по тестированию </a>
+</h1>  
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<h2 align="center"> Привет! Меня зовут Роман, я начинающий тестировщик. </h2>
 
-🙋‍♂️ ## Обо мне 
-
-Привет! Меня зовут Роман, я начинающий тестировщик. <br>
+<h2>  🙋‍♂️ <a href="" target="_blank"> Обо мне </a> </h2>  
 Постоянно слежу за новыми технологиями, методами и инструментами, связанными с тестированием, чтобы быть в курсе последних тенденций и применять их в практической работе. Я активно посещаю онлайн-курсы, читаю профессиональные книги и форумы, где могу учиться у опытных профессионалов. 
 
 Очень внимателен и скрупулёзный, пользуюсь техниками релаксации и техникой Помодоро (Прошло 25 минут — сделайте перерыв в 5 минут. Спустя 4 «помидора» сделайте полноценный перерыв в 15 – 20 минут). Что позволяет  быть сосредоточенным долгое время и не затуманивать разум.
@@ -24,7 +23,7 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
-🛰 ## Навыки и технологии
+<h2> 🛰 <a href="" target="_blank"> Навыки и технологии </a> </h2>
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``,``Swagger``,``Trello``, <br>
 ``SoapUI``,``Mockoon``,``JMeter``,``Charles``,``Git``,``Chrome DevTools``, <br>
 ``Miro``, ``Sitechko``,``Confluence``,``pgAdmin4``. 
