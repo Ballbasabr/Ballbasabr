@@ -1,3 +1,5 @@
+/*Создайте таблицы в БД и заполните их данными.*/
+
 CREATE TABLE 
   posts 
     (post_id  INTEGER,
@@ -33,7 +35,7 @@ VALUES
   (4, 'music'),
   (5, 'dark');
 
-
+/*Выведите данные по постам, которые длиннее 8000 символов.*/
 
 SELECT 
   *
@@ -42,7 +44,7 @@ FROM
 WHERE 
   text_len  >=8000;
 
-
+/*Выведите id постов, которые отмечены тегами happy или joy.*/
 
 SELECT 
   *
@@ -51,7 +53,7 @@ FROM
 WHERE 
   tag = 'happy' or tag = 'joy';
 
-
+/*Выведите id постов, которые были размещены до 10 марта 2023.*/
 
 SELECT 
   *
@@ -60,8 +62,8 @@ FROM
 WHERE 
   post_date  <='2023.03.10';
 
-
-
+/*Добавьте пост с id 6, сделанный 31 марта 2023, 
+содержащий 10782 символ и отмеченный тегом love*/
 
 INSERT INTO 
   posts (post_id, text_len, post_date)
@@ -73,7 +75,7 @@ INSERT INTO
 VALUES
   (6, 'love');
   
-
+/*Измените тег для поста с id =5 c dark на live*/
 
 UPDATE 
   tags
