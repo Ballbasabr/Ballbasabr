@@ -1,3 +1,4 @@
+/*Создайте таблицу salary и rooms , добавьте 5 записей.*/
 CREATE TABLE salary ( 
     teacher_id  INTEGER,
     salary_amt  NUMERIC(16,2),
@@ -26,13 +27,23 @@ VALUES
 (10, 33576, 2),
 (11, 33902, 2);
 
-SELECT teacher_id
-FROM rooms
-WHERE floor_num = 2;
+/*Выведите id учителей с кабинетами на втором этаже.*/
 
-SELECT teacher_id
-FROM salary
-WHERE salary_val = 'EUR';
+SELECT 
+    teacher_id
+FROM 
+    rooms
+WHERE 
+    floor_num = 2;
+
+/*Выведите id учителей, которые получают зарплату в евро.*/
+
+SELECT 
+    teacher_id
+FROM 
+    salary
+WHERE 
+    salary_val = 'EUR';
 
 
 
