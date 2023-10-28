@@ -95,7 +95,7 @@
 - [Дымовое тестирование](https://app.qase.io/public/report/954acb36e31de682ad9b53421465b2607bf9d105),
 - [Функциональное тестирование](https://github.com/Ballbasabr/Ballbasabr/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961/Sitechco.ru.pdf),
 - [Регрессионное тестирование](https://github.com/Ballbasabr/Ballbasabr/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961/%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81.pdf),
-- [Тестирование API](https://speeding-flare-912190.postman.co/workspace/d649abb9-9720-4021-8973-a38cb44f5cc9/folder/28327576-df124b2b-0965-4e0c-9c62-f6ac71393994)
+- [Тестирование API](https://www.postman.com/speeding-flare-912190/workspace/ballbasabr/collection/28327576-fa230f0c-d948-4ab9-a9d0-1ebf0e6f0482?action=share&creator=28327576)
 
 
 **Какие инструменты были применены:**
