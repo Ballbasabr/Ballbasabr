@@ -1,4 +1,5 @@
 /*Создайте таблицу salary и rooms , добавьте 5 записей.*/
+
 CREATE TABLE salary ( 
     teacher_id  INTEGER,
     salary_amt  NUMERIC(16,2),
